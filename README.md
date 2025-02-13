@@ -26,4 +26,4 @@ MAVEN_OPTS="-Dhttps.protocols=TLSv1.2" mvn clean install -U
 
 Para executar o mesmo comando eem executar os testes unitários:
 
-MAVEN_OPTS="-Dhttps.protocols=TLSv1.2" mvn clean install -U -DskipTests -Dmaven.test.skip=true
+MAVEN_OPTS="-Dhttps.protocols=TLSv1.2" mvn clean install -U -DskipTests -Dmaven.test.skip=true# bopepo-0.2-Helio
